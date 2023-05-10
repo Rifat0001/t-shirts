@@ -1,0 +1,15 @@
+img {
+    width: 200px;
+    height: 250px;
+}
+
+.tshirt {
+    border: 1px solid gainsboro;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.tshirt button {
+    background-color: skyblue;
+}
